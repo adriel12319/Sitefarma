@@ -1,0 +1,11 @@
+.generico-tarja-preta-pacheco-1 {
+  position: relative;
+  width: 100%;
+  height: 107px;
+  transform: rotate(-0.43deg);
+  transform-origin: 0 0;
+  background-image: url(./public/genericotarjapretapacheco-13@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

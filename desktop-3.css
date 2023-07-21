@@ -1,0 +1,235 @@
+.fumaca-roxa-e-azul-em-preto-1-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.subtract-icon21 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.farma-express21 {
+  position: relative;
+  font-weight: 800;
+}
+.logo21 {
+  width: 237px;
+  height: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.inicio21 {
+  position: relative;
+}
+.inicio21,
+.span21 {
+  font-weight: 500;
+}
+.participe-do-projeto-container21 {
+  position: relative;
+}
+.frame35,
+.frame36,
+.menu21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.menu21 {
+  align-items: flex-start;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-palanquin-dark);
+}
+.frame35,
+.frame36 {
+  height: 44px;
+  overflow: hidden;
+  align-items: center;
+}
+.frame36 {
+  width: 1158px;
+  flex-shrink: 0;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-92xl);
+}
+.frame35 {
+  position: absolute;
+  top: 79px;
+  left: 140px;
+  width: 1164px;
+  font-size: var(--font-size-16xl);
+}
+.o-que-est14 {
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+  width: 533px;
+  height: 198px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.blank-line4 {
+  margin: 0;
+}
+.selecione-onde-fica-container2 {
+  position: relative;
+  font-size: var(--font-size-4xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 533px;
+  height: 67px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.corpo-texto-child2 {
+  position: relative;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 40px 70px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  width: 257px;
+  height: 60px;
+  z-index: 2;
+}
+.remdios36 {
+  position: absolute;
+  margin: 0 !important;
+  top: 465px;
+  left: 78px;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 104px;
+  height: 31px;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.corpo-texto14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-73xl);
+}
+.frame37,
+.frame38 {
+  height: 542px;
+  display: flex;
+}
+.frame38 {
+  width: 533px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame37 {
+  top: 202px;
+  left: 140px;
+  width: 988px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-73xl);
+}
+.frame37,
+.frame39,
+.personagem-icon14 {
+  position: absolute;
+  overflow: hidden;
+}
+.personagem-icon14 {
+  top: 235px;
+  left: 1243px;
+  border-radius: var(--br-23xl);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame39 {
+  top: 857px;
+  left: 557px;
+  width: 1224px;
+  height: 269.37px;
+}
+.card-1-child13 {
+  position: relative;
+  width: 288px;
+  height: 2.37px;
+}
+.mais-de-500-container14 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.card-114,
+.card-314 {
+  position: absolute;
+  top: 819px;
+  left: 270px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-darkgray);
+  backdrop-filter: blur(70px);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-54xl) var(--padding-24xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.card-314 {
+  left: 1034px;
+  padding: var(--padding-54xl) var(--padding-34xl);
+  gap: var(--gap-smi);
+}
+.sempre-investindo-em-container14 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-align: left;
+  display: inline-block;
+  width: 319px;
+}
+.card-214 {
+  position: absolute;
+  top: 820px;
+  left: 660px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-darkgray);
+  backdrop-filter: blur(70px);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-54xl) var(--padding-lgi);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .fumaca-roxa-e-azul-em-preto-1-icon12 {
+    display: flex;
+    max-width: 1200px;
+  }
+}
