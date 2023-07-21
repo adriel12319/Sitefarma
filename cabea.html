@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./cabea.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Palanquin Dark:wght@500;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="cabea">
+      <img
+        class="fumaca-roxa-e-azul-em-preto-1-icon5"
+        alt=""
+        src="./public/fumacaroxaeazulempreto-11@2x.png"
+      />
+
+      <div class="menu5">
+        <div class="inicio5">Inicio</div>
+        <div class="inicio5">Remédios</div>
+        <div class="inicio5">Sobre nós</div>
+        <div class="inicio5">Depoimentos</div>
+        <div class="participe-do-projeto-container5">
+          <b>Participe do projeto</b>
+          <span class="span5"> </span>
+        </div>
+      </div>
+      <div class="card-25">
+        <div class="frame12">
+          <b class="qualidade5">Qualidade</b>
+          <img class="frame-child3" alt="" src="./public/line-4.svg" />
+        </div>
+        <div class="sempre-investindo-em-container5">
+          <p class="sempre-investindo-em5">Sempre investindo em conhecimento</p>
+          <p class="sempre-investindo-em5">e infraestrutura.</p>
+        </div>
+      </div>
+      <div class="card-15">
+        <b class="melhor-escolha5">Melhor escolha</b>
+        <img class="card-1-child3" alt="" src="./public/line-43.svg" />
+
+        <div class="mais-de-500-container5">
+          <p class="sempre-investindo-em5">Mais de 500 famílias ajudadas</p>
+          <p class="sempre-investindo-em5">em todo Brasil.</p>
+        </div>
+      </div>
+      <img
+        class="pesquisar-e-login5"
+        alt=""
+        src="./public/pesquisar-e-login2.svg"
+      />
+
+      <div class="card-35">
+        <b class="servio5">Serviço</b>
+        <div class="comprometimento-e-gesto-container5">
+          <p class="sempre-investindo-em5">Comprometimento e gestão</p>
+          <p class="sempre-investindo-em5">estão em nossas prioridades.</p>
+        </div>
+        <img class="card-3-child3" alt="" src="./public/line-3.svg" />
+      </div>
+      <div class="logo5">
+        <img class="subtract-icon5" alt="" src="./public/subtract1.svg" />
+
+        <div class="farma-express5">Farma Express</div>
+      </div>
+      <img class="personagem-icon5" alt="" src="./public/personagem5.svg" />
+
+      <img
+        class="vector-icon49"
+        alt=""
+        src="./public/vector13.svg"
+        id="vectorIcon"
+      />
+
+      <div class="corpo-texto5">
+        <div class="o-que-est5">O que está sentindo hoje?</div>
+        <div class="selecione-onde-fica5">
+          Selecione onde fica sua dor, para melhor ajudarmos.
+        </div>
+        <div class="frame13">
+          <div class="remdios11">Remédios</div>
+        </div>
+      </div>
+      <div class="card-43">
+        <b class="onde-est-sua">Onde está sua dor:</b>
+        <img class="card-4-child14" alt="" src="./public/line-3.svg" />
+
+        <div class="frame14">
+          <div class="frame15">
+            <div class="frame-child4" id="rectangle"></div>
+            <img class="vector-icon50" alt="" src="./public/vector3.svg" />
+          </div>
+          <div class="frame16">
+            <img class="vector-icon51" alt="" src="./public/vector4.svg" />
+
+            <b class="qualidade5">Cabeça</b>
+          </div>
+        </div>
+        <div class="frame17">
+          <div class="frame-child5" id="rectangle1"></div>
+          <b class="olhos">Olhos</b>
+          <img class="vector-icon52" alt="" src="./public/vector5.svg" />
+        </div>
+        <div class="frame18">
+          <div class="frame-child5" id="rectangle2"></div>
+          <b class="nariz">Nariz</b>
+          <img
+            class="mingcutenose-line-icon"
+            alt=""
+            src="./public/mingcutenoseline.svg"
+          />
+        </div>
+        <div class="frame19">
+          <div class="frame-child5" id="rectangle3"></div>
+          <b class="boca">Boca</b>
+          <img class="group-icon6" alt="" src="./public/group.svg" />
+        </div>
+        <div class="frame20">
+          <div class="frame-child5" id="rectangle4"></div>
+          <b class="boca">Ouvido</b>
+          <img class="vector-icon53" alt="" src="./public/vector15.svg" />
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var vectorIcon = document.getElementById("vectorIcon");
+      if (vectorIcon) {
+        vectorIcon.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./cabea-cabea.html";
+        });
+      }
+      
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./cabea-olho.html";
+        });
+      }
+      
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./cabea-nariz.html";
+        });
+      }
+      
+      var rectangle3 = document.getElementById("rectangle3");
+      if (rectangle3) {
+        rectangle3.addEventListener("click", function (e) {
+          window.location.href = "./cabea-boca.html";
+        });
+      }
+      
+      var rectangle4 = document.getElementById("rectangle4");
+      if (rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          window.location.href = "./cabea-ouvido.html";
+        });
+      }
+      </script>
+  </body>
+</html>
