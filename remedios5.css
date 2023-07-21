@@ -1,0 +1,171 @@
+.fundo-branco-sujo-de-cimento-n-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4032px;
+  height: 3024px;
+  object-fit: cover;
+}
+.remedios-child6 {
+  position: absolute;
+  top: 193px;
+  left: 82px;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-gainsboro-200);
+  box-shadow: 20px 4px 90px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(90px);
+  width: 707px;
+  height: 628px;
+}
+.inicio18,
+.remdios31,
+.sobre-ns18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.remdios31,
+.sobre-ns18 {
+  left: 82px;
+}
+.sobre-ns18 {
+  left: 213px;
+}
+.depoimentos18 {
+  position: absolute;
+  top: 0;
+  left: 343px;
+}
+.depoimentos18,
+.span18 {
+  font-weight: 500;
+}
+.menu18,
+.participe-do-projeto-container18 {
+  position: absolute;
+  top: 0;
+  left: 513px;
+}
+.menu18 {
+  top: 80px;
+  left: 557px;
+  width: 741px;
+  height: 43px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-palanquin-dark);
+}
+.pesquisar-e-login18 {
+  position: absolute;
+  top: 80px;
+  left: 1450px;
+  width: 330px;
+  height: 40px;
+}
+.farma-express18 {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  font-weight: 800;
+}
+.subtract-icon18 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.logo18 {
+  position: absolute;
+  top: 79px;
+  left: 140px;
+  width: 306px;
+  height: 42px;
+  font-size: var(--font-size-16xl);
+}
+.generico-tarja-preta-pacheco-4 {
+  position: absolute;
+  top: 627px;
+  left: 464px;
+  box-shadow: 20px 21px 80px rgba(0, 0, 0, 0.25);
+  width: 107px;
+  height: 107px;
+}
+.ibuprofeno2 {
+  position: absolute;
+  top: 243px;
+  left: 942px;
+  font-size: var(--font-size-31xl);
+}
+.ibuprofeno-um {
+  position: absolute;
+  top: 334px;
+  left: 923px;
+  font-weight: 500;
+  color: var(--color-whitesmoke);
+  text-align: left;
+  display: inline-block;
+  width: 675px;
+  height: 544px;
+}
+.remedios-child7 {
+  position: absolute;
+  top: 737px;
+  left: 1127px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-gainsboro-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(70px);
+  width: 547px;
+  height: 107px;
+}
+.solicitar5 {
+  position: absolute;
+  top: 773px;
+  left: 1342px;
+  font-weight: 500;
+  text-align: left;
+}
+.generico-tarja-preta-pacheco-7-icon5 {
+  position: absolute;
+  top: 203px;
+  left: 204px;
+  width: 504px;
+  height: 504px;
+  object-fit: cover;
+}
+.generico-tarja-preta-pacheco-8-icon1,
+.generico-tarja-preta-pacheco-9-icon1 {
+  position: absolute;
+  top: 571px;
+  left: 115px;
+  width: 267.8px;
+  height: 267.8px;
+  object-fit: cover;
+}
+.generico-tarja-preta-pacheco-9-icon1 {
+  top: 570px;
+  left: 268px;
+}
+.generico-tarja-preta-pacheco-1-icon15,
+.generico-tarja-preta-pacheco-1-icon16 {
+  position: absolute;
+  top: 572px;
+  left: 408px;
+  width: 267.8px;
+  height: 267.8px;
+  object-fit: cover;
+}
+.generico-tarja-preta-pacheco-1-icon16 {
+  top: 570px;
+  left: 547px;
+}
+.remedios5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
