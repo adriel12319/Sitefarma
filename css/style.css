@@ -973,12 +973,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
         max-height: 300vh;
         max-width: 300vw;
         padding-right: 0px;
-        padding-right: 0px;
+ 
       }
       #adriel{
         max-height: 300vh;
         position: relative;
-        padding-bottom: 240px;
         max-height: 300vh;
         max-width: 300vw;
         padding-right: 0px;
