@@ -1,3 +1,12 @@
+html {
+  scroll-behavior: smooth;
+  /*Adds smooth scrolling instead of snapping to element*/
+}
+#driimg{
+  width: 400px ;
+  height: 500px;
+}
+
 #driel12{
   align-items: center;
   padding-left: 250px;
@@ -24,6 +33,22 @@ flex: auto;
   padding-left: 20px;
   padding-right: 50px;
 
+  }
+  #sla{
+    padding-left: 110px;
+    text-justify: auto;
+    color: black;
+    text-align: justify;
+    align-items: center;
+  }
+  #rowdri{
+    width: 110vw;
+    height: 50vh;
+  }
+  #driimg{
+    width: 90vw;
+    height: 40vh;
+    padding-top: 60px;
   }
   #botaocentro{
     align-items: center;
