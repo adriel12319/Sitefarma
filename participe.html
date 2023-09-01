@@ -112,8 +112,8 @@
     <div class="container">
       <div class="row align-items-end text-center">
         <div class="col-lg-2 mx-auto">
-          <h1>Login</h1>  
-          <p class="mb-4"><a href="index.html">Inicio</a> / <strong>Entrar</strong></p>        
+          <h1>Participe</h1>  
+          <p class="mb-4"><a href="index.html">Inicio</a> / <strong>Participar do projeto</strong></p>        
         </div>
       </div>
     </div>
@@ -125,22 +125,72 @@
     <div class="container" id="tudoa">
       <div class="row">
       
-        <div class="col-lg-10" id="driel13">
+        <div class="col-lg-10" id="driel12">
           <div class="custom-block" data-aos="fade-up" data-aos-delay="100">
             <form class="contact-form">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="" for="fname">Nome</label>
+                    <input type="text" class="form-control" id="fname">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="" for="lname">Sobrenome</label>
+                    <input type="text" class="form-control" id="lname">
+                  </div>
+                </div>
+              </div>
+         
               
+              <div class="row"> 
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="" for="fname">Número de telefone</label>
+                    <input type="text" class="form-control" id="telefone">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="" for="fname">CPF/CNPJ</label>
+                    <input type="text" class="form-control" id="cpf">
+                  </div>
+                </div>
+              </div>
               <div class="form-group">
                 <label class="" for="email">Email</label>
                 <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
                
               </div>
               <div class="form-group">
-                <label class="" for="password">Senha</label>
-                <input type="password" class="form-control" id="password">
+                <label class="" for="select">Doar remédios</label>
+
+                <select name="" id="select" class="custom-select">
+                  <option value="">1 - 5 remédios</option>
+                  <option value="">6 - 15 remédios</option>
+                  <option value="">16 - 25 remédios
+                  </option>
+                  <option value="">26 - 50 remédios
+                  </option>
+                  <option value="">Mais que 50
+                  </option>
+                
+                </select>
+
               </div>
-             
-          
-              <button type="submit" class="btn btn-primary" id="botaocentro">Login</button>
+              <div class="form-group">
+                <label class="" for="message">Informação adicional</label>
+                <textarea name="" class="form-control" id="message" cols="30" rows="5"></textarea>
+              </div>
+              <div class="form-group">
+                <label class="control control--checkbox">
+                  <span class="caption">Aceitar todos termos de segurança.</span>
+                  <input type="checkbox"/>
+                  <div class="control__indicator"></div>
+                </label>
+              </div>
+              <button type="submit" class="btn btn-primary">Enviar</button>
             </form>
           </div>
 
